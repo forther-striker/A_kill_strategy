@@ -1,1 +1,1 @@
-# A_kill_strategy
+# A_kill_strategy is a quantitative trading strategy on the JoinQuant platform.
